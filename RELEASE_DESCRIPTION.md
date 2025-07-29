@@ -1,33 +1,33 @@
 # 🚀 Anis Mosbah Portfolio Pro v1.0.0
 
-**Application macOS native** du portfolio professionnel d'Anis Mosbah - Creative Developer
+**Native macOS application** for Anis Mosbah's professional portfolio - Creative Developer
 
-## ✨ Fonctionnalités Pro
+## ✨ Pro Features
 
-- **Interface moderne** et élégante
-- **Système d'authentification** sécurisé
-- **Mises à jour automatiques**
-- **Analytics** en temps réel
-- **Export** multi-format
-- **Thèmes** personnalisés
+- **Modern interface** and elegant design
+- **Secure authentication** system
+- **Automatic updates**
+- **Real-time analytics**
+- **Multi-format export**
+- **Custom themes**
 
 ## 📥 Installation
 
-1. Téléchargez le fichier **Universal DMG** (recommandé)
-2. Ouvrez le DMG et glissez l'app dans Applications
-3. Lancez **Anis Mosbah Portfolio**
+1. Download the **Universal DMG** file (recommended)
+2. Open the DMG and drag the app to Applications
+3. Launch **Anis Mosbah Portfolio**
 
-## 💻 Compatibilité
+## 💻 Compatibility
 
-- **macOS 10.14+** (Mojave et plus récent)
-- **Universal Binary** : Intel + Apple Silicon (M1/M2/M3)
+- **macOS 10.14+** (Mojave and later)
+- **Universal Binary**: Intel + Apple Silicon (M1/M2/M3)
 
-## 🔐 Accès Pro
+## 🔐 Pro Access
 
-**Raccourci** : `Ctrl+Shift+P`  
-**Login** : `admin` / `portfolio2024`
+**Shortcut**: `Ctrl+Shift+P`  
+**Login**: `admin` / `portfolio2024`
 
 ---
 
-**Développé par Anis Mosbah**  
+**Developed by Anis Mosbah**  
 📧 dev@anismosbah.art | 🌐 anismosbah.art 

@@ -1,91 +1,91 @@
 # 🚀 Anis Mosbah Portfolio Pro
 
-**Application macOS native** du portfolio professionnel d'Anis Mosbah - Creative Developer
+**Native macOS application** for Anis Mosbah's professional portfolio - Creative Developer
 
 ![Portfolio Pro](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![macOS](https://img.shields.io/badge/macOS-10.14+-green.svg)
 ![Universal](https://img.shields.io/badge/Universal-Intel%20%2B%20Apple%20Silicon-orange.svg)
 
-## ✨ Fonctionnalités
+## ✨ Features
 
-- **🎨 Interface moderne** et élégante
-- **🔐 Système d'authentification** sécurisé
-- **🔄 Mises à jour automatiques**
-- **📊 Analytics** en temps réel
-- **📁 Export** multi-format (PDF, JSON, HTML)
-- **🎭 Thèmes** personnalisés
-- **🔔 Notifications** système natives
+- **🎨 Modern interface** and elegant design
+- **🔐 Secure authentication** system
+- **🔄 Automatic updates**
+- **📊 Real-time analytics**
+- **📁 Multi-format export** (PDF, JSON, HTML)
+- **🎭 Custom themes**
+- **🔔 Native system notifications**
 
-## 📥 Téléchargement
+## 📥 Download
 
-### [📦 Télécharger la dernière version](https://github.com/yani2298/Anis-Mosbah-Portfolio/releases/latest)
+### [📦 Download Latest Version](https://github.com/yani2298/Anis-Mosbah-Portfolio/releases/latest)
 
-**Versions disponibles :**
-- **Universal DMG** (Recommandé) - Compatible Intel + Apple Silicon
-- **ARM64 DMG** - Pour Apple Silicon uniquement (M1/M2/M3)
-- **Intel DMG** - Pour processeurs Intel uniquement
+**Available versions:**
+- **Universal DMG** (Recommended) - Compatible with Intel + Apple Silicon
+- **ARM64 DMG** - For Apple Silicon only (M1/M2/M3)
+- **Intel DMG** - For Intel processors only
 
 ## 🛠 Installation
 
-1. **Téléchargez** le fichier DMG Universal (recommandé)
-2. **Ouvrez** le fichier DMG
-3. **Glissez** l'application dans le dossier Applications
-4. **Lancez** Anis Mosbah Portfolio
+1. **Download** the Universal DMG file (recommended)
+2. **Open** the DMG file
+3. **Drag** the application to Applications folder
+4. **Launch** Anis Mosbah Portfolio
 
-## 💻 Compatibilité
+## 💻 Compatibility
 
-- **macOS 10.14+** (Mojave et versions ultérieures)
-- **Universal Binary** : Optimisé pour Intel et Apple Silicon
-- **Mises à jour automatiques** intégrées
+- **macOS 10.14+** (Mojave and later versions)
+- **Universal Binary**: Optimized for Intel and Apple Silicon
+- **Automatic updates** integrated
 
-## 🔐 Fonctionnalités Pro
+## 🔐 Pro Features
 
-### Accès à l'interface Pro
-- **Raccourci clavier** : `Ctrl + Shift + P`
-- **Identifiants** : `admin` / `portfolio2024`
+### Access to Pro Interface
+- **Keyboard shortcut**: `Ctrl + Shift + P`
+- **Credentials**: `admin` / `portfolio2024`
 
-### Fonctionnalités avancées
-- 📊 **Analytics** détaillées en temps réel
-- 🎨 **Thèmes** personnalisés premium
-- 📁 **Export** de données (PDF, JSON, HTML)
-- 🔄 **Vérification manuelle** des mises à jour
-- ⚡ **Performances** optimisées
+### Advanced Features
+- 📊 **Detailed analytics** in real-time
+- 🎨 **Premium custom themes**
+- 📁 **Data export** (PDF, JSON, HTML)
+- 🔄 **Manual update checking**
+- ⚡ **Optimized performance**
 
-## 🔄 Mises à jour
+## 🔄 Updates
 
-L'application vérifie automatiquement les nouvelles versions :
-- **Au démarrage** de l'application
-- **Via le menu** Application > Vérifier les mises à jour
-- **Via l'interface Pro** (Ctrl+Shift+P)
+The application automatically checks for new versions:
+- **At startup**
+- **Via menu** Application > Check for Updates
+- **Via Pro interface** (Ctrl+Shift+P)
 
-Les mises à jour se téléchargent et s'installent automatiquement.
+Updates download and install automatically.
 
 ## 📞 Contact & Support
 
 **Anis Mosbah** - Creative Developer
 
-- 🌐 **Portfolio** : [anismosbah.art](https://anismosbah.art)
-- 📧 **Email** : dev@anismosbah.art
-- 🐙 **GitHub** : [@yani2298](https://github.com/yani2298)
+- 🌐 **Portfolio**: [anismosbah.art](https://anismosbah.art)
+- 📧 **Email**: dev@anismosbah.art
+- 🐙 **GitHub**: [@yani2298](https://github.com/yani2298)
 
 ## 📝 Changelog
 
-### v1.0.0 - Version initiale
-- 🎉 Première release publique
-- ✨ Interface moderne et responsive
-- 🔐 Système d'authentification Pro
-- 🔄 Auto-updater intégré
-- 📱 Support Universal Binary
+### v1.0.0 - Initial Release
+- 🎉 First public release
+- ✨ Modern and responsive interface
+- 🔐 Pro authentication system
+- 🔄 Integrated auto-updater
+- 📱 Universal Binary support
 
 ---
 
-## 🛡️ Sécurité & Confidentialité
+## 🛡️ Security & Privacy
 
-- **Aucune donnée** n'est collectée ou transmise
-- **Fonctionnement local** uniquement
-- **Code signé** pour macOS
-- **Mises à jour sécurisées** via GitHub
+- **No data** is collected or transmitted
+- **Local operation** only
+- **Code signed** for macOS
+- **Secure updates** via GitHub
 
 ---
 
-*Développé avec ❤️ par Anis Mosbah | © 2024 Tous droits réservés* 
+*Developed with ❤️ by Anis Mosbah | © 2024 All rights reserved* 
