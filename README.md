@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🚀 Anis Mosbah Portfolio Pro
+<img width="320" height="320" alt="icone" src="https://github.com/user-attachments/assets/5af08987-f76b-4cd7-ae6d-0e1c892bee7d" />
 
 **Native macOS application** for Anis Mosbah's professional portfolio - Creative Developer
 
