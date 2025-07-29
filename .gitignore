@@ -72,4 +72,21 @@ jspm_packages/
 .env.test
 
 # Stores VSCode versions used for testing VSCode extensions
-.vscode-test 
+.vscode-test
+
+# HIDE SOURCE CODE FROM GITHUB - Keep only documentation
+main.js
+preload.js
+pro-auth.js
+package.json
+package-lock.json
+index.html
+app-styles.css
+icone.png
+_astro/
+fonts/
+icons/
+images/
+entitlements.mac.plist
+scripts/
+.github/ 
