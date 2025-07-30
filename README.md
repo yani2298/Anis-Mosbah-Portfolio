@@ -4,6 +4,7 @@
 <img width="320" height="320" alt="icone" src="https://github.com/user-attachments/assets/5af08987-f76b-4cd7-ae6d-0e1c892bee7d" />
 
 **Native macOS application** for Anis Mosbah's professional portfolio - Creative Developer
+<img width="1213" height="786" alt="CleanShot 2025-07-30 at 20 48 57" src="https://github.com/user-attachments/assets/6f01c36c-a084-4229-b0bb-1e51172b8abc" />
 
 ![Portfolio Pro](https://img.shields.io/badge/Version-1.0.0-blue.svg)
 ![macOS](https://img.shields.io/badge/macOS-10.14+-green.svg)
