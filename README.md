@@ -111,8 +111,8 @@ Updates download and install automatically.
 
 **Anis Mosbah** - Creative Developer
 
-- 🌐 **Portfolio**: [anismosbah.art](https://anismosbah.art)
-- 📧 **Email**: dev@anismosbah.art
+- 🌐 **Portfolio**: [anismosbah.](https://anismosbah.)
+- 📧 **Email**: dev@anismosbah.
 - 🐙 **GitHub**: [@yani2298](https://github.com/yani2298)
 
 </div>
